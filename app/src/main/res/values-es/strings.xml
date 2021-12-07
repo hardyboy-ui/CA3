@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CA3</string>
+    <string name="x">Perfil del usuario</string>
+    <string name="a" translatable="false">Género</string>
+    <string name="b" translatable="false">Masculino</string>
+    <string name="c" translatable="false">Mujer</string>
+    <string name="d" translatable="false">Región</string>
+    <string name="e" translatable="false">Nombre de usuario</string>
+    <string name="f" translatable="false">Propósito de uso</string>
+    <string name="g" translatable="false">Creación de contenido</string>
+    <string name="h" translatable="false">Recolección de conocimientos</string>
+    <string name="i" translatable="false">Haciendo amigos</string>
+    <string name="j" translatable="false">Enviar</string>
+</resources>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CA3</string>
+    <string name="x">USER PROFILE</string>
+    <string name="a">Gender</string>
+    <string name="b">Male</string>
+    <string name="c">Female</string>
+    <string name="d">Region</string>
+    <string name="e">Username</string>
+    <string name="f">Purpose of use</string>
+    <string name="g">Content Creation</string>
+    <string name="h">Knowledge gathering</string>
+    <string name="i">Making friends</string>
+    <string name="j">Submit</string>
+
+</resources>
